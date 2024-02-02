@@ -1,0 +1,165 @@
+body {
+	background-color: #1ba11b;
+}
+
+.title {
+	color: white;
+	font-family: "Comic Sans MS";
+	text-align: center;
+	font-size: 110px;
+	padding: 30px 0px 0px;
+	margin: 30px 0px 0px;
+}
+
+.bio {
+	color: #fff54f;
+	text-align: center;
+	font-size: 45px;
+	margin: 0;
+	padding: 5px;
+}
+
+.row1 {
+	display: block;
+	margin: auto;
+}
+
+.row2 {
+    text-align: center; 
+}
+
+.row2 img {
+    display: inline-block; 
+    vertical-align: top; 
+    margin: 40px 20px; 
+}
+
+.row3 {
+	text-align: center;
+}
+
+.para1 {
+	color: #fff54f;
+	font-size: 33px;
+	font-family: "Comic Sans MS";
+	font-weight: bold;
+	display: block;
+   	margin: 0 400px 0;
+	line-height: 1.2em;
+	padding: 5px 0px 0px;
+}
+
+.para2 {
+	color: #fff54f;
+	font-size: 26px;
+	font-family: "Comic Sans MS";
+	font-weight: bold;
+	margin: 0px 400px 0px;
+	line-height: 1.2em;
+}
+
+.row4 {
+	text-align: center;
+}
+
+.row4 img {
+   	display: inline-block; 
+   	vertical-align: bottom; 
+	margin: 0px 60px 0px;
+}
+
+.para3, .para4, .para5, .para6 {
+	color: white;
+	margin: 0px 400px 0px;
+	font-family: "Comic Sans MS";
+	font-weight: bold;
+	line-height: 1.2em;
+	font-size: 27px;
+}
+
+.short1, .short2 {
+	color: #fff54f;
+	font-size: 40px;
+	font-family: "Comic Sans MS";
+	font-weight: bold;
+	margin: 0px 0px 0px;
+	line-height: 1.2em;
+	text-align: center;
+}
+
+.short3 {
+	color: #ffe107;
+	font-size: 40px;
+	font-family: "Comic Sans MS";
+	font-weight: bold;
+	margin: 0px 60px 0px;
+	line-height: 1.2em;
+	text-align: center;
+}
+
+.row5 {
+	text-align: center;
+}
+
+.row6 {
+	text-align: center;
+	padding: 40px 0px;
+}
+
+.largeblackbox {
+	height: 200px;
+	background-color: black;
+	margin: 0px 500px;
+}
+
+.amout {
+	color: white;
+	text-align: center;
+	font-family: "Comic Sans MS";
+	font-weight: bold;
+	padding: 15px 0px 0px;
+	font-size: 25px;
+	line-height: 1em;
+}
+
+.vist {
+	color: #fff54f;
+	text-align: center;
+	font-family: "Comic Sans MS";
+	font-weight: bold;
+	padding: 0px;
+	font-size: 23px;
+	line-height: 1em;
+}
+
+.java {
+	color: white;
+	text-align: center;
+	font-family: "Comic Sans MS";
+	font-weight: bold;
+	padding: 0px;
+	font-size: 23px;
+	line-height: .00001em;
+}
+
+.rules {
+	text-align: center;
+	color: white;
+	font-family: "Comic Sans MS";;
+	text-decoration: underline;
+	padding: 15px 30px 0px;
+	font-size: 14px;
+}
+
+.rules a {
+	color: white;
+	padding: 20px 30px 0px;
+}
+
+.copyright {
+	color: black;
+	text-align: center;
+	font-family: "Comic Sans MS";
+	font-weight: bold;
+	font-size: 13px;
+}
