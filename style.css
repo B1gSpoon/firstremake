@@ -40,21 +40,21 @@ body {
 
 .para1 {
 	color: #fff54f;
-	font-size: 33px;
+	font-size: 27px;
 	font-family: "Comic Sans MS";
 	font-weight: bold;
 	display: block;
-   	margin: 0 400px 0;
+   	margin: 0 500px 0;
 	line-height: 1.2em;
 	padding: 5px 0px 0px;
 }
 
 .para2 {
 	color: #fff54f;
-	font-size: 26px;
+	font-size: 20px;
 	font-family: "Comic Sans MS";
 	font-weight: bold;
-	margin: 0px 400px 0px;
+	margin: 0px 500px 0px;
 	line-height: 1.2em;
 }
 
@@ -70,11 +70,11 @@ body {
 
 .para3, .para4, .para5, .para6 {
 	color: white;
-	margin: 0px 400px 0px;
+	margin: 0px 500px 0px;
 	font-family: "Comic Sans MS";
 	font-weight: bold;
 	line-height: 1.2em;
-	font-size: 27px;
+	font-size: 20px;
 }
 
 .short1, .short2 {
